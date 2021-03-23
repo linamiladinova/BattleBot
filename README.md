@@ -1,6 +1,6 @@
 # BattleBot
 
-![Лого на проекта](bb.png)
+[Лого на проекта](bb.png)
 
 Батълботът е предназначен за битка. За оръжие има два циркулярни диска.
 
@@ -21,12 +21,12 @@
 
 1) 1x Arduino UNO REV3 SMD - Evaluation Board based 
 2) 2x L298HN - Dual full-bridge driver for inductive loads 
-3) 1x RFM95W-868S2 - SMD RF Transceiver Module
-4) 5x Motors
-5) nx Battery
-6) 2x циркулярни диска
-7) 4x гуми 
-8) 1x Xbox 360 controller
+3) 1x Xbox 360 receiver - Adapter for Microsoft Xbox 360 Controllers
+4) 1x Xbox 360 controller
+5) 5x Motors
+6) nx Battery
+7) 2x циркулярни диска
+8) 4x гуми 
 
 ## Информация за авторите на проекта
 
