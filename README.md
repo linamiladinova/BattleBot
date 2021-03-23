@@ -4,7 +4,7 @@
 
 Батълботът е предназначен за битка. За оръжие има два циркулярни диска.
 
-# Линк към презентацията: https://docs.google.com/presentation/d/1oeRDDqVRljNsF_pRaTUkYjFw8iTTUIGnjSwjE-AOOSw/edit?usp=sharing
+Линк към презентацията: https://docs.google.com/presentation/d/1oeRDDqVRljNsF_pRaTUkYjFw8iTTUIGnjSwjE-AOOSw/edit?usp=sharing
 
 ## Как се използва проекта?
 
