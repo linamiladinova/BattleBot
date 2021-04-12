@@ -23,7 +23,7 @@
 2) 1x Arduino UNO REV3 SMD - Evaluation Board based 
 3) 2x L298HN - Dual full-bridge driver for inductive loads 
 4) 1x Xbox 360 controller and receiver - Adapter for Microsoft Xbox 360 Controller
-5) 5x Motors (18V)
+5) 5x Engines (18V)
 6) 1x 18V Battery
 7) 2х IRF520
 8) 1х 1k резистор
