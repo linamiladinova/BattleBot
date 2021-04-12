@@ -8,29 +8,36 @@
 
 ## Как се използва проекта?
 
-Роботът е предназначен за Battle битки. 
+Роботът е предназначен за бойни битки. 
 
 ### Инструкции за направа
 
 1) Намерете компонентите, описани по-долу
-2) Свържете копонентите, кaкто е показано на ...
-3) Изтеглете кода и го прикачете към Arduinoto
+2) Свържете копонентите, кaкто е показано е Pictures/PCB
+3) Изтеглете кода и го прикачете към Arduino-то
 4) Готови сте за битка!
 
 ## Използвани компоненти
 
-1) 1x Arduino UNO REV3 SMD - Evaluation Board based 
-2) 2x L298HN - Dual full-bridge driver for inductive loads 
-3) 1x Xbox 360 receiver - Adapter for Microsoft Xbox 360 Controllers
-4) 1x Xbox 360 controller
-5) 5x Motors
-6) nx Battery
-7) 2x циркулярни диска
-8) 4x гуми 
+1) !!!Добри проводници!!!
+2) 1x Arduino UNO REV3 SMD - Evaluation Board based 
+3) 2x L298HN - Dual full-bridge driver for inductive loads 
+4) 1x Xbox 360 controller and receiver - Adapter for Microsoft Xbox 360 Controller
+5) 5x Motors (18V)
+6) 1x 18V Battery
+7) 2х IRF520
+8) 1х 1k резистор
+9) 1x 1n4148 диод 
+10) 2x диск за флекс за дърво ф125мм
+11) 1x метална ос ф22мм (според вътрешния диаметър на диска)
+12) 1х ремък, зъбно колело и ремъчна шайба
+13) 4х гуми за RC играчка
+14) 4х сглобки за гуми 
+15) Тяло: 50х30см (височина 10см) с преместена преграда на 12-тия см на дългата страна
 
 ## Информация за авторите на проекта
 
-* **Павлина Миладинова** - хардуерист, дизайнер - Malinka - https://github.com/linamiladinova
-* **Стефани Токова** - хардуерист, дизайнер - - https://github.com/StefanyTkv
+* **Павлина Миладинова** - хардуерист, софтуерист - https://github.com/linamiladinova
+* **Стефани Токова** - хардуерист, дизайнер - https://github.com/StefanyTkv
 
 ### Благодарим, че стигна чак до тук! Надяваме се проекът да ти е харесал! ;)
