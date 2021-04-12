@@ -23,11 +23,11 @@
 2) 1x Arduino UNO REV3 SMD - Evaluation Board based 
 3) 2x L298HN - Dual full-bridge driver for inductive loads 
 4) 1x Xbox 360 controller and receiver - Adapter for Microsoft Xbox 360 Controller
-5) 5x Engines (18V)
-6) 1x 18V Battery
-7) 2х IRF520
+5) 5x Мотора (18V)
+6) 1x 18V Акумулатор
+7) 2х IRF520 (NPN транзистор)
 8) 1х 1k резистор
-9) 1x 1n4148 диод 
+9) 1x 1N4148 диод 
 10) 2x диск за флекс за дърво ф125мм
 11) 1x метална ос ф22мм (според вътрешния диаметър на диска)
 12) 1х ремък, зъбно колело и ремъчна шайба
