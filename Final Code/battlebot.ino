@@ -8,7 +8,7 @@
 USB Usb;
 XBOXRECV Xbox(&Usb);
 
-int weapon = 1;
+int weapon = A1;
 int front_right_In1 = 2; //en1 FORWARD
 int front_right_In2 = 3; //en1 BACKWARD
 int back_right_In3 = 4; //en2 FORWARD
