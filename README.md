@@ -20,8 +20,8 @@
 ## Използвани компоненти
 
 1) !!!Добри проводници!!!
-2) 1x Arduino UNO REV3 SMD - Evaluation Board based 
-3) 2x L298HN - Dual full-bridge driver for inductive loads 
+2) 1x Arduino UNO REV3 - Evaluation Board based 
+3) 2x L298N - Dual full-bridge driver for inductive loads 
 4) 1x Xbox 360 controller and receiver - Adapter for Microsoft Xbox 360 Controller
 5) 5x Мотора (18V)
 6) 1x 18V Акумулатор
@@ -31,7 +31,7 @@
 10) 2x диск за флекс за дърво ф125мм
 11) 1x метална ос ф22мм (според вътрешния диаметър на диска)
 12) 1х ремък, зъбно колело и ремъчна шайба
-13) 4х гуми за RC играчка
+13) 4х гуми
 14) 4х сглобки за гуми 
 15) Тяло: 50х30см (височина 10см) с преместена преграда на 12-тия см на дългата страна
 
