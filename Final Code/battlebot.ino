@@ -51,6 +51,7 @@ void setup()
   pinMode(front_left_In2, OUTPUT);
   pinMode(back_left_In3, OUTPUT);
   pinMode(back_left_In4, OUTPUT);
+  pinMode(weapon, OUTPUT);
 }
 
 void loop()
